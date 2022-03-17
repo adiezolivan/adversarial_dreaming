@@ -1,2 +1,2 @@
-# deep_stuff
-different tests using pytorch and keras + tensorflow
+# Adversarial attacks and deep dreaming
+Having fun with adversarial attacks and deep dreaming stuff
